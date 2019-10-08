@@ -1,3 +1,1 @@
 test Readme
-Contributors:
-mathlam
